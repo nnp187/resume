@@ -47,8 +47,8 @@ header a.contact-link:hover {
 }
 
 section {
-    padding: 5px 0; /* Reduced padding for less space between sections */
-    margin: 10px 0; /* Added margin to control spacing */
+    padding: 5px 0; 
+    margin: 10px 0; 
 }
 
 section.summary {
