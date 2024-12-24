@@ -47,12 +47,12 @@ header a.contact-link:hover {
 }
 
 section {
-    padding: 5px 0; /* Keep sections close together */
-    margin: 5px 0; /* Ensure sections are not spaced too far apart */
+    padding: 5px 0;
+    margin: 2px 0;
 }
 
 section.summary {
-    margin-top: 50px; /* Increase spacing between header and "About Me" only */
+    margin-top: 50px;
 }
 
 section h2 {
@@ -81,7 +81,7 @@ section ul li::before {
 }
 
 .job {
-    margin-bottom: 10px; /* Keep job spacing intact */
+    margin-bottom: 10px;
 }
 
 .job h3 {
