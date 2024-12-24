@@ -47,8 +47,8 @@ header a.contact-link:hover {
 }
 
 section {
-    padding: 5px 0;
-    margin: 2px 0;
+    padding: 2px 0;
+    margin: 0;
 }
 
 section.summary {
